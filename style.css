@@ -1,0 +1,31 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #9e4b1b;
+}
+ 
+header {
+  text-align: center;
+  background-color: #c2752e;
+  color: #fcfcfc;
+  padding: 20px;
+}
+ 
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+ 
+.hero {
+  text-align: center;
+  background-image: url('42c86adc-02dd-4c42-9aa7-8a8e7d700b10.jpeg'); /* Ganti dengan gambar background yang sesuai */
+  background-size: cover;
+  color: #ffffff;
+  padding: 100px;
+}
+ 
+.about, .skills {
+  padding: 100px;
+}
